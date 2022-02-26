@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe and witty discourse or dialogue, between a York-shire man, and a Scottish-man; concerning the forces landed in Scotland, and the English-Army. Also, some dispute touching the treaty at Breda, and Generall Lesley's marching with an army. With certain observations what is like to be the issue and event thereof.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77401</idno>
+            <idno type="STC">Wing B4538</idno>
+            <idno type="STC">Thomason E600_2</idno>
+            <idno type="STC">ESTC R206388</idno>
+            <idno type="EEBO-CITATION">99865548</idno>
+            <idno type="PROQUEST">99865548</idno>
+            <idno type="VID">165613</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77401)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165613)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E600[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe and witty discourse or dialogue, between a York-shire man, and a Scottish-man; concerning the forces landed in Scotland, and the English-Army. Also, some dispute touching the treaty at Breda, and Generall Lesley's marching with an army. With certain observations what is like to be the issue and event thereof.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for D.B.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut illustration on title page.</note>
+                  <note>Annotation on Thomason copy: "May. 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165613:1" rendition="simple:additions"/>
+            <p>A Brief and Witty Diſcourſe OR DIALOGUE, <hi>BETWEEN</hi> A <hi>York-ſire</hi> man, and a <hi>Scottiſh-man;</hi> Concerning the Forces landed in <hi>Scotland,</hi> and the <hi>Engliſh-Army.</hi> ALSO, Some Diſpute touching the Treaty at <hi>Breda,</hi> and Generall <hi>Leſley</hi>'s marching with an Army. With certain Obſervations what is like to be the iſſue and even thererof.</p>
+            <figure>
+               <figDesc>two men engaged in conversation</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>R. W.</hi> for <hi>D. B.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165613:2"/>
+            <pb n="1" facs="tcp:165613:2"/>
+            <head>A Diſcourſe or Dialogue, between a Yorkshire man and a Bonny Scot.</head>
+            <sp>
+               <speaker>Yorkshire.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell met friend, what news? I perceive you come from the Coaſt of Scot<g ref="char:EOLhyphen"/>land.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Before I anſwer, give me leave to ask what Countryman you are?</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I am a Yorkſhire man born, and bred, I care not who knowes it, I hope true Yorkſhire never denies his Country.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I thought you look'd like a ſubtle Blade; I defie your Country, for I am a Bonny Scot, and for news, I can tell none that may in the leaſt meaſure content you.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>A Bonny Scot, I cry you mercy Sir, your tongue might have deceived me, had it not been for your blew Bon<g ref="char:EOLhyphen"/>net; but ſurely Sir your have been more converſant in <hi>England</hi> then in your own Country, or you have learned to counter<g ref="char:EOLhyphen"/>feit, how elſe comes it to paſſe that you have forgotten your mother-tongue and ſpeak ſo good Engliſh? And if Yorkſhire men be ſuch Blades, I am ſure that ſome Scots are crafty Knaves and Cowards too, that's more; and for your news, whether it be good or bad it matters not a pin.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>You may know it too ſonne for ought I know, and I deſire you that you will ſpeak no more of Scotland then what you can affirm, what Scotſmen Cowards?</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I as ſure as louſe in boſome, what I have ſaid I will juſtifie of ſome of them.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I pray you Sir [it's well you ſay ſome] have not Scotſmen been commended for gallant ſouldiers in <hi>Germany,</hi> in the <hi>Low-Countries,</hi> I and in <hi>England</hi> too, otherwiſe how
+<pb n="2" facs="tcp:165613:3"/>ſhould I have known how to have ſpoken Engliſh?</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>How ſay you, in <hi>England?</hi> I thought you ſpake like <hi>Lancaſhire,</hi> and I warrant it was beaten into your head when <hi>Hambleton</hi> was your blinde guide, for there you had it to ſome purpoſe; and I beleeve all the money you can make in <hi>Scotland,</hi> will not redeem the Colours you then loſt, and yet more to your honour (if you think it ſo) I can minde you of what is of longer antiquity, and you may take it for your better nodification, that our Chronicles make mention that in the year 1333, the Engliſh beſieged the Town of <hi>Barwick,</hi> and the Scots intending to diſſolve the Siege, the Engliſh met them at <hi>Bothel,</hi> and ſlew of them one thouſand three hundred horſemen, and thirty five thou<g ref="char:EOLhyphen"/>ſand footmen, and afterward took the Town, and there placed a Garriſon: And in the year 1339, the Scottiſh King with divers Earls and Lords were taken priſoners by the Engliſh. If this bee your valour, let it bee recorded to poſteritie; but really, I muſt needs confeſſe your miſ<g ref="char:EOLhyphen"/>take is not very great, for (if at theſe and other times that I can tell you of) if Running had been Fighting, you had not loſt the day.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I, I, as for your Chronicles wee cannot remember them, but I am ſure wee took <hi>Newcaſtle</hi> by ſtorm, although it coſt ſome few hundred of us our lives. From thence we marched victoriouſly without oppoſition, as farre as <hi>He<g ref="char:EOLhyphen"/>reford;</hi> and returned with many Horſes and gude ſpoil in<g ref="char:EOLhyphen"/>to our own Country; Now in this ſervice it was my for<g ref="char:EOLhyphen"/>tune to be, by which meanes I came to ſpeak gude Engliſh, and not by comming in with Duke <hi>Hambleton,</hi> for then wee could not do it, haſte calling upon us to be gone; yet friend let me ſpeak ſomething for my own honour; for at that very inſtant (ſtanding in the Sunne) I killed one, and had kil<g ref="char:EOLhyphen"/>led another a ſecond time, I beleeve, but that the ſuddain diſ<g ref="char:EOLhyphen"/>charging of a piece of Ordnance, made me forget my bullet.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I thought that you would have excuſed your ſelf ſome other way, and ſaid that it was not becauſe of your va<g ref="char:EOLhyphen"/>lour, but becauſe you could get no victuals, that you returned back again into your own Country.</p>
+            </sp>
+            <pb n="3" facs="tcp:165613:3"/>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Marry Sir, I think ſome had too much, for they took a grievous ſurfet of it, and for our oppoſers, they were ſo luſty that we have found the ſmart of it.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>So, it is well that you will yeild that the Engliſh got the beſt, I thought you would have remained obſtinate, and if you had, I ſhould have made bold to put you in minde, of your croſſing the water another time: I pray you what great Guns and Ammunition, have you now in Scotland of your own?</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>I, now indeed you come near the point, and as I may ſay to you, wee have been beholding oftentimes to o<g ref="char:EOLhyphen"/>thers, both for Horſe and Ammunition, yet have we of our own too.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>Now I beleeve you, for you are all for what you can get.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Well, what do you inferre upon that? Will you ſay we are fools for that?</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>No, I will not make any inference, becauſe I do not very well underſtand what you mean: But leaving off this impertinent diſcourſe, what ſay you to the Lord <hi>Crom<g ref="char:EOLhyphen"/>wel</hi>'s late march to <hi>Edenburgh?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>By your favour Sir, never the more fools or knaves neither for that, for I pray what Army ever was there that could withſtand them? Did they not conquer all pla<g ref="char:EOLhyphen"/>ces where ever they came? I hope you will not ſay that all that they have conquered are cowards; if you do, you will make cowards of as valiant men, as any are in Yorkſhire at this time.</p>
+            </sp>
+            <sp>
+               <speaker>York.</speaker>
+               <p>Why then you may account it an honour to be con<g ref="char:EOLhyphen"/>quered by the <hi>Engliſh-Army.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Whether it be or not, I ſhall not diſpute, but I am certain it is no diſgrace: For were not the haughty Cava<g ref="char:EOLhyphen"/>liers ſubdued by them? Is not the great and numerous Ar<g ref="char:EOLhyphen"/>mies, under the conduct of Generall <hi>Preston, Ormond, In<g ref="char:EOLhyphen"/>chiqueen,</hi> and others in <hi>Ireland,</hi> almoſt conquered by a part of this Army there: Then I ſay there is none yet that could withſtand them.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>Do you confeſſe this?</p>
+            </sp>
+            <pb n="4" facs="tcp:165613:4"/>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Yes, I grant that without any more controverſie, it appearing ſo plain that it cannot be denied; therefore ſpeak not to me any more of fools or cowards, for if you do give mee any more ſuch croſſe anſwers, I ſhall make you beleeve that the Scots are men; or elſe ile burn my Cap.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>Becauſe thou boaſteſt ſo much, and beginneſt to threaten, I will do what I can to vex thee; ſome of the Scots are Fools in the firſt place, Cowards in the ſecond place, ignoble in the third place, beggarly in the fourth place, and ſomething elſe in the fifth place.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Better words would better become you, unleſſe you could ſhew wherein they are ſo.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I ſhall give you ſome reaſon for what I have ſaid; they were Fools for invading <hi>England,</hi> Cowards that they were caught, ignoable for that they loſt their honour, beg<g ref="char:EOLhyphen"/>garly for that they brought not money with them, and ſome<g ref="char:EOLhyphen"/>thing elſe for making Warre againſt the Parliament of Eng<g ref="char:EOLhyphen"/>land: This I have been the more plain in relating, becauſe you could not keep your own Country, but muſt needs at<g ref="char:EOLhyphen"/>tempt the making of us as miſerable as your ſelves.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Well, well, I will let you have your own ſaying at this time, but be ſure I will pay you home in your own coyn; and now I will prove that there is more folly with you, then with us.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I beleeve you will ſay what you can for your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>That I will too, therefore hear my Argument. Who<g ref="char:EOLhyphen"/>ſoever they be that ſee and know the miſeries of others occa<g ref="char:EOLhyphen"/>ſioned by their folly, and ſhall wilfully and rebelliouſly tread in their ſteps, taking the ſame courſe to bring themſelves into the like condition, are worſe than the former: You could not but be ſenſible of the miſeries that the poor Scots were brought into by their figary into <hi>England</hi> with Duke <hi>Hambleton;</hi> now after this, ſome of you were ſo wiſe as to tread in their ſteps, and give advantage to them that were the cauſers and procurers of our miſeries, ſo as to bring them<g ref="char:EOLhyphen"/>ſelves into the ſame condition: <hi>Ergo,</hi> —</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>Well profered howſoever, but yet I deny your mi<g ref="char:EOLhyphen"/>nor,
+<pb n="5" facs="tcp:165613:4"/>
+                  <hi>viz.</hi> That we men of Yorkſhire did joyn with them that were the procurers of yours and our miſeries, thinking thereby to bring our ſelves into the ſame condition; it is no ſuch matter, we like not your condition ſo well as to deſire it, they that do, I ſay it is fit they ſhould have it.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>But Sir, before you proceed any farther, give mee leave to tell you how groſſely you are miſtaken in what I ſaid; I ſaid not that you joyned with them on purpoſe to make your ſelves miſerable thereby, but that you through your folly took the onely courſe to bring your ſelves into that condition, if that ſome of you act and go on in the ſame way that ſome of us did before you; I remember a verſe much to this purpoſe;
+<q>
+                     <l>It is no leſſe then a ſilent Invitation,</l>
+                     <l>Although we ſcorn the ſin, to give the occaſion.</l>
+                  </q> If you will not bee convinced now that ſome of you were in an errour, and approve of what I have ſaid to be true, I will call the Army to be a Moderator betwixt us; were not ſome Yorkſhire men at <hi>Burford?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I know not that, but if the Army ſhall be Modera<g ref="char:EOLhyphen"/>tors, we muſt ſtay untill the Army comes.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Truly, if our intelligence be right, it will not bee long before they come.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I wiſh they were whipt that are the cauſe thereof, take heed your wit fail you not again in <hi>Scotland,</hi> I beleeve you will meet with your match, if you ſtir again againſt <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Indeed there is ſome fear of being enſnared by a Treaty, and what the meaning is of bringing over forraign forces, we yet know not.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I thought how wiſe I ſhould finde you; me thinks had you any more wit then meer naturals, you would not ſuffer more mouths to come into your Land and eat up that which God ſends, which is little enough to feed thoſe that are bred and born in it: And here I ſhall give you ſome advice to carry along with you, which is this; That if you and <hi>Montroſſe</hi> juggle together, the ſword (or that which is worſe) will meet with ſome of you; for it is reported he will ſhortly be in <hi>Scotland,</hi> whether there be an agreement with your decla<g ref="char:EOLhyphen"/>red King, or not.</p>
+            </sp>
+            <pb n="6" facs="tcp:165613:5"/>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>What a buſineſſe that is; is not Generall <hi>Leſley</hi> march<g ref="char:EOLhyphen"/>ing to meet them, with an Army? I warrant he will deal well enough with them, I will aſſure you their condition is bad e<g ref="char:EOLhyphen"/>nough: But in this (I hope) I ſpeak not any thing againſt my Country.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>It matter not much whether your Generall (as you call him) fights them at all, but be ſure (if they come for<g ref="char:EOLhyphen"/>ward) they will be fought with.</p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Truly, I beleeve Sir, and I confeſſe unto you more, that the noiſe of the Engliſh Army ſtrikes a great terrour, for many do ſay; <hi>That it is no more withſtanding them, then it is to ſtop the water in the River</hi> Tweed.</p>
+            </sp>
+            <sp>
+               <speaker>Yorks.</speaker>
+               <p>I will aſſure you, I am of opinion, <hi>Scotland</hi> will rue the time that ſuch gheſts came thither, unleſſe they take a ſpeedy courſe to ſend them back again; for if they get the bet<g ref="char:EOLhyphen"/>ter end of the ſtaffe, what care they what is done or not done at the Treaty at <hi>Breda.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Scot.</speaker>
+               <p>Indeed friend I am almoſt of the ſame perſwaſion, and therefore ſhall rather ſtand by, and obſerve how others carry themſelves, them to be an Actor with them. I hope we have all of us had enough of Warres and Commotions, ſome of us have paid dear enough for it, and that wit (they ſay) is beſt, which is deareſt bought: And ſo at this time farewell.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
